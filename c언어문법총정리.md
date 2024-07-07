@@ -14,3 +14,7 @@ int a = -2 , int b=!a; 이면 똑같이 a=-2,b=0 이므로 a가 -2로 참이므�
 빈칸에 0 넣기 20, 1,2 출력한다고 하면 vv12,vv1,vv2 012,001,002
 
 #### char 1byte, int 4byte, float 4byte, double 8byte, 주소값 8byte (ex: char*-> 8byte)
+
+#### %X로 출력하라는 것은 16진수로 바꾸어서 출력하라는 뜻
+
+#### 리틀 에디안(little edian) 방식으로 출력하면 거꾸로 출력
